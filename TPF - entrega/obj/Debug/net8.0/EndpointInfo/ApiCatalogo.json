@@ -1,0 +1,165 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "ApiCatalogo",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/catalogo/todos": {
+      "get": {
+        "tags": [
+          "ApiCatalogo"
+        ],
+        "operationId": "TodoselCatalogo",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/catalogo/agregar": {
+      "post": {
+        "tags": [
+          "ApiCatalogo"
+        ],
+        "operationId": "AgregarProductoAlCatalogo",
+        "parameters": [
+          {
+            "name": "rutaAlPadre",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ItemCat"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/catalogo/buscar": {
+      "get": {
+        "tags": [
+          "ApiCatalogo"
+        ],
+        "operationId": "BuscaProductoDelCatalogo",
+        "parameters": [
+          {
+            "name": "elemento",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/catalogo/urls-seo": {
+      "get": {
+        "tags": [
+          "ApiCatalogo"
+        ],
+        "operationId": "GetURLsSEO",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/catalogo/url-seoPorId": {
+      "get": {
+        "tags": [
+          "ApiCatalogo"
+        ],
+        "operationId": "url-seoPorId",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/catalogo/niveles": {
+      "get": {
+        "tags": [
+          "ApiCatalogo"
+        ],
+        "operationId": "ConsultaNiveles",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ItemCat": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "tipo": {
+            "$ref": "#/components/schemas/TipoElemento"
+          },
+          "codigoSKU": {
+            "type": "string",
+            "nullable": true
+          },
+          "precio": {
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      },
+      "TipoElemento": {
+        "enum": [
+          0,
+          1
+        ],
+        "type": "integer",
+        "format": "int32"
+      }
+    }
+  }
+}

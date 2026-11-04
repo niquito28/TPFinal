@@ -1,0 +1,74 @@
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\ApiCatalogo.staticwebassets.endpoints.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\ApiCatalogo.exe
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\ApiCatalogo.deps.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\ApiCatalogo.runtimeconfig.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\ApiCatalogo.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\ApiCatalogo.pdb
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.AssemblyInfo.cs
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\scopedcss\bundle\ApiCatalogo.styles.css
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatal.B2456931.Up2Date
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\refint\ApiCatalogo.dll
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.pdb
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ApiCatalogo.genruntimeconfig.cache
+C:\Users\User\Downloads\ApiCatalogo\ApiCatalogo\obj\Debug\net8.0\ref\ApiCatalogo.dll
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\ApiCatalogo.staticwebassets.endpoints.json
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\ApiCatalogo.exe
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\ApiCatalogo.deps.json
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\ApiCatalogo.runtimeconfig.json
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\ApiCatalogo.dll
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\ApiCatalogo.pdb
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\TPF - entrega\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.AssemblyInfo.cs
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\scopedcss\bundle\ApiCatalogo.styles.css
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatal.B2456931.Up2Date
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.dll
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\refint\ApiCatalogo.dll
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.pdb
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ApiCatalogo.genruntimeconfig.cache
+C:\Users\User\Downloads\TPF - entrega\obj\Debug\net8.0\ref\ApiCatalogo.dll
